@@ -1,1 +1,1 @@
-Personal website  [https://cvthirumalakumar.github.io/]([url](https://cvthirumalakumar.github.io/)https://cvthirumalakumar.github.io/)
+Personal website  [https://cvthirumalakumar.github.io/](https://cvthirumalakumar.github.io/)
