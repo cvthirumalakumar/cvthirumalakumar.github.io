@@ -56,6 +56,9 @@ Indian Intitute of Science (IISc), Bangalore
 - **Dec 2024**: Joined Sony Research India as Speech Recognition intern
 - **April 2024**: Selected for CHANAKYA PG fellowship for my master's research
 - **Feb 2024**: Atteneded Research Week with Google 2024
+- **Aug 2023**: Joined IIITH for MS
+- **July 2022**: Joined SPIRE Lab as Project Associate
+- **Jan 2022**: Joined SPIRE Lab as Research Intern
 
 
 
