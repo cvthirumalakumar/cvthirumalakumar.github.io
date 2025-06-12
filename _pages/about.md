@@ -28,17 +28,7 @@ Rajiv Gandhi University of Knowledge Technologies-Andhra Pradesh, RK Valley *(20
 <br/>
 CGPA: 8.66
 
-## Academic History
 
-**Master of Science (MS) by Research**
-<br/>
-IIIT-Hyderabad *(2023-present)*
-<br/>
-Research Topic: Spoken Grammatical Error Detection
-<br/>
-Supervisor: Chiranjeevi Yarra
-<br/>
-CGPA: 8.88
 
 ## Experience
  
