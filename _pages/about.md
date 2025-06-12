@@ -28,12 +28,44 @@ Rajiv Gandhi University of Knowledge Technologies-Andhra Pradesh, RK Valley *(20
 <br/>
 CGPA: 8.66
 
+## Academic History
+
+**Master of Science (MS) by Research**
+<br/>
+IIIT-Hyderabad *(2023-present)*
+<br/>
+Research Topic: Spoken Grammatical Error Detection
+<br/>
+Supervisor: Chiranjeevi Yarra
+<br/>
+CGPA: 8.88
+
+## Experience
+ 
+**Speech Recognition Intern**
+<br/>
+Sony Research India *(Dec 2024 - May 2025)*
+
+**Project Associate**
+<br/>
+Signal Processing Interpretation and REpresentation LABoratory (SPIRE LAB) *(July 2022 - July 2023)*
+<br/>
+Indian Intitute of Science (IISc), Bangalore
+
+**Research Intern**<br/>
+Signal Processing Interpretation and REpresentation LABoratory (SPIRE LAB) *(Jan 2022 - July 2022)*
+<br/>
+Indian Intitute of Science (IISc), Bangalore
+
 
 
 ## Updates
 
 - **May 2025**: 3 appers accepted to Interspeech 2025
-- **Year**: Update
+- **April 2025**: Attended ICASSP 2025 in Hyderabad India, served as volunteer.
+- **Dec 2024**: Joined Sony Research India as Speech Recognition intern
+- **April 2024**: Selected for CHANAKYA PG fellowship for my master's research
+- **Feb 2024**: Atteneded Research Week with Google 2024
 
 
 
