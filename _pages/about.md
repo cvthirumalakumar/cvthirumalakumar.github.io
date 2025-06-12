@@ -10,7 +10,7 @@ redirect_from:
  A Master of Science by research student at Speech Processing Lab, Langauge Technologies Research Center (LTRC), [International Institute of Information Technology - Hyderabad](https://www.iiit.ac.in/). I have a 3+ yeras of working experinec in Speech and NLP research using Signal Processing and Machine Learning techniques.
 
 
-## Academic History
+# Academic History
 
 **Master of Science (MS) by Research**
 <br/>
@@ -30,7 +30,7 @@ CGPA: 8.66
 
 
 
-## Experience
+# Experience
  
 **Speech Recognition Intern**
 <br/>
