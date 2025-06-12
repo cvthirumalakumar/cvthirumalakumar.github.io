@@ -19,6 +19,7 @@ IIIT-Hyderabad *(2023-present)*
 Research Topic: Spoken Grammatical Error Detection
 <br/>
 Supervisor: Chiranjeevi Yarra
+<br/>
 CGPA: 8.88
 
 **Bachelor of Technology**
