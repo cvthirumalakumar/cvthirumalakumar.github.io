@@ -12,19 +12,20 @@ redirect_from:
 
 ## Academic History
 
-** Master of Science (MS) by Research**
+**Master of Science (MS) by Research**
 <br/>
 IIIT-Hyderabad *(2023-present)*
 <br/>
 Research Topic: Spoken Grammatical Error Detection
 <br/>
 Supervisor: Chiranjeevi Yarra
+CGPA: 8.88
 
 **Bachelor of Technology**
 <br/>
 Rajiv Gandhi University of Knowledge Technologies-Andhra Pradesh, RK Valley *(2018-2022)*
 <br/>
-Graduated with GPA: 8.66
+CGPA: 8.66
 
 
 
