@@ -7,6 +7,6 @@ excerpt: 'Dysarthria due to Amyotrophic Lateral Sclerosis (ALS) progressively di
 accuracies reduce with an increase in dysarthria severity reaching 59.22% and 61.67% for vowels and 41.78% and 38.00% for fricatives, respectively, at the most severe cases. While manual classification is better than automatic one for all severity levels except the highest severity case for vowels, the difference between the two gradually reduces with an increase in severity'
 date: 2023-10-24
 venue: 'Interspeech'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf](https://www.isca-archive.org/interspeech_2023/venkatathirumalakumar23_interspeech.pdf'
+paperurl: 'https://www.isca-archive.org/interspeech_2023/venkatathirumalakumar23_interspeech.pdf'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
