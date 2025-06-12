@@ -49,7 +49,7 @@ Indian Intitute of Science (IISc), Bangalore
 
 
 
-## Updates
+# Updates
 
 - **May 2025**: 3 appers accepted to Interspeech 2025
 - **April 2025**: Attended ICASSP 2025 in Hyderabad India, served as volunteer.
